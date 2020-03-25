@@ -6,6 +6,7 @@ Technologies used:
 - Node
 - React
 - React Native
+- SQLite 
 
 Clone the project and run in the root of both `backend` and `frontend` directories:
 ```
