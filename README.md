@@ -8,7 +8,7 @@ Be The Hero
 
 
 
-Ler em [Português](https://github.com/BrunoSilveiraDev/Be-the-hero/tree/master/translation)
+Ler em [Português](https://github.com/BrunoSilveiraDev/Be-the-hero/tree/master/.github/translation)
 
 A project to help and connect ONGs and people to work together in the various cases. 
 
