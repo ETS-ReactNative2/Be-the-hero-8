@@ -3,7 +3,7 @@ Be The Hero
 
 
 <h1 align="center">
-    <p><img src=".github/demo1.gif" width="700px" height="400px"/><img src=".github/demo2.gif" width="200px"/></p>
+    <p><img src="demo1.gif" width="700px" height="400px"/><img src="demo2.gif" width="200px"/></p>
 </h1>
 
 
@@ -15,19 +15,19 @@ _Feito durante a Semana OmniStack 11, da [RocketSeat](https://rocketseat.com.br/
 
 ## :computer: Tecnologias Usadas  
 
-<a href="https://nodejs.org/en/"><img src=".github/nodejs.png" width="50"/></a>
+<a href="https://nodejs.org/en/"><img src="nodejs.png" width="50"/></a>
 
 [NodeJs](https://nodejs.org/en/)
 
-<a href="https://reactjs.org/"><img src=".github/react.png" width="50"/></a>
+<a href="https://reactjs.org/"><img src="react.png" width="50"/></a>
 
 [React](https://reactjs.org/)
 
-<a href="https://reactnative.dev/"><img src=".github/react-native.png" width="43"/></a>
+<a href="https://reactnative.dev/"><img src="react-native.png" width="43"/></a>
 
 [React Native](https://reactnative.dev/)
 
-<a href="https://www.sqlite.org/index.html"><img src=".github/sqlite.png" width="70"/></a>
+<a href="https://www.sqlite.org/index.html"><img src="sqlite.png" width="70"/></a>
 
 [SQLite](https://www.sqlite.org/index.html)
 
