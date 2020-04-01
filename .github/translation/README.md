@@ -15,19 +15,19 @@ _Feito durante a Semana OmniStack 11, da [RocketSeat](https://rocketseat.com.br/
 
 ## :computer: Tecnologias Usadas  
 
-<a href="https://nodejs.org/en/"><img src="nodejs.png" width="50"/></a>
+<a href="https://nodejs.org/en/"><img src="../nodejs.png" width="50"/></a>
 
 [NodeJs](https://nodejs.org/en/)
 
-<a href="https://reactjs.org/"><img src="react.png" width="50"/></a>
+<a href="https://reactjs.org/"><img src="../react.png" width="50"/></a>
 
 [React](https://reactjs.org/)
 
-<a href="https://reactnative.dev/"><img src="react-native.png" width="43"/></a>
+<a href="https://reactnative.dev/"><img src="../react-native.png" width="43"/></a>
 
 [React Native](https://reactnative.dev/)
 
-<a href="https://www.sqlite.org/index.html"><img src="sqlite.png" width="70"/></a>
+<a href="https://www.sqlite.org/index.html"><img src="../sqlite.png" width="70"/></a>
 
 [SQLite](https://www.sqlite.org/index.html)
 
