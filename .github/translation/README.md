@@ -3,7 +3,7 @@ Be The Hero
 
 
 <h1 align="center">
-    <p><img src="demo1.gif" width="700px" height="400px"/><img src="demo2.gif" width="200px"/></p>
+    <p><img src="../demo1.gif" width="700px" height="400px"/><img src="../demo2.gif" width="200px"/></p>
 </h1>
 
 
