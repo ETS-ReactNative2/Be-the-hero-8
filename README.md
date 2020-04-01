@@ -3,7 +3,7 @@ Be The Hero
 
 
 <h1 align="center">
-    <p><img src=".github/demo1.gif" width="400px"/><img src=".github/demo2.gif" width="200px"/></p>
+    <p><img src=".github/demo1.gif" width="700px" height="400px"/><img src=".github/demo2.gif" width="200px"/></p>
 </h1>
 
 
@@ -17,19 +17,19 @@ _Made at OmniStack Week 11, from [RocketSeat](https://rocketseat.com.br/)._
 
 ## :computer: Technologies Used  
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50"/>
+<img src=".github/nodejs.png" width="50"/>
 
 [NodeJs](https://nodejs.org/en/)
 
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50"/>
+<img src=".github/react.png" width="50"/>
 
 [React](https://reactjs.org/)
 
-<img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" width="43"/>
+<img src=".github/react-native.png" width="43"/>
 
 [React Native](https://reactnative.dev/)
 
-<img src="https://dwglogo.com/?download=5380" width="70"/>
+<img src=".github/sqlite.png" width="70"/>
 
 [SQLite](https://www.sqlite.org/index.html)
 
