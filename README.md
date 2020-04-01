@@ -17,19 +17,19 @@ _Made at OmniStack Week 11, from [RocketSeat](https://rocketseat.com.br/)._
 
 ## :computer: Technologies Used  
 
-<img src=".github/nodejs.png" width="50"/>
+<a href="https://nodejs.org/en/"><img src=".github/nodejs.png" width="50"/></a>
 
 [NodeJs](https://nodejs.org/en/)
 
-<img src=".github/react.png" width="50"/>
+<a href="https://reactjs.org/"><img src=".github/react.png" width="50"/></a>
 
 [React](https://reactjs.org/)
 
-<img src=".github/react-native.png" width="43"/>
+<a href="https://reactnative.dev/"><img src=".github/react-native.png" width="43"/></a>
 
 [React Native](https://reactnative.dev/)
 
-<img src=".github/sqlite.png" width="70"/>
+<a href="https://www.sqlite.org/index.html"><img src=".github/sqlite.png" width="70"/></a>
 
 [SQLite](https://www.sqlite.org/index.html)
 
@@ -62,7 +62,7 @@ $ cd mobile && expo start
 
 
 ## :wrench: :hammer: How to Contribute  
-Feel free to give your improvments to this project ! 
+Feel free to leave your improvments to this project ! 
 
 1. Fork the repository
 2. Create a branch of your feature: `git checkout -b example-feature`
